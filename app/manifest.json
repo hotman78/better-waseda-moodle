@@ -21,7 +21,8 @@
     "storage",
     "webRequest",
     "webRequestBlocking",
-    "cookies"
+    "cookies",
+    "unlimitedStorage"
   ],
   "web_accessible_resources": [
     "src/auto-login/auto-login-page.html",
